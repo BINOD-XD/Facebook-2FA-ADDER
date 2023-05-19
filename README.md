@@ -34,7 +34,7 @@ cd Facebook-2FA-ADDER
 ls
 ```
 ```
-python 2fa.py
+python rxs_2fa.py
 ```
 
 # Acknowledgements
